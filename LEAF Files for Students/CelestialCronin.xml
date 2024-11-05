@@ -998,7 +998,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105150857011",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:08:57.011Z",
-	"dcterms:modified": "2024-11-05T20:08:57.011Z",
+	"dcterms:modified": "2024-11-05T20:49:57.222Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1039,7 +1039,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -1950,6 +1951,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151657375",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:16:57.375Z",
+	"dcterms:modified": "2024-11-05T20:49:47.903Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2028,6 +2030,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151709559",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:17:09.559Z",
+	"dcterms:modified": "2024-11-05T20:49:39.053Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2106,7 +2109,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151834331",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:18:34.331Z",
-	"dcterms:modified": "2024-11-05T20:18:34.331Z",
+	"dcterms:modified": "2024-11-05T20:49:52.467Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2422,7 +2425,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105152006047",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:20:06.047Z",
-	"dcterms:modified": "2024-11-05T20:20:06.047Z",
+	"dcterms:modified": "2024-11-05T20:50:02.536Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2463,7 +2466,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasPrecision": "cwrc:lowCertainty"
 }]]>
         </rdf:Description>
       
@@ -3060,7 +3064,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105154557709",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:45:57.709Z",
-	"dcterms:modified": "2024-11-05T20:45:57.709Z",
+	"dcterms:modified": "2024-11-05T20:49:44.080Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -3101,7 +3105,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -3139,7 +3144,7 @@
 	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105154647674",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:46:47.674Z",
-	"dcterms:modified": "2024-11-05T20:46:47.674Z",
+	"dcterms:modified": "2024-11-05T20:49:33.849Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -3180,7 +3185,8 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -3509,7 +3515,7 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/2-BriefDesc-Celestial-Ort-1.jpg"/>
 			<div>
-				<head><orgName cert="high">A brief deſcription of the half 2 globes or ſpheres, aſ vvell Celeſtial and Terreſtrial</orgName></head><p>BEcauſe the true &amp; proper deſcription of the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> &amp; the partes thereof ; cannot wel bee made without the knowlege of <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942" cert="high">Coſmographie</rs> &amp; <rs key="geography" ref="http://www.wikidata.org/entity/Q1071">Geographie</rs>, It is not amiſſe that the circular compoſition both of <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs> &amp; <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> bee briefly explicated. <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942">Coſmographie</rs> doth deſcribe the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">world</placeName>, that is to ſay the <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>; &amp; what els is conteyned within the circuit thereof. For the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">world<precision match="@ref" precision="high"/></placeName> is deuyded into <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly &amp; elementarie regions.  The <placeName key="sky" ref="http://www.wikidata.org/entity/Q527" cert="medium">celeſtial<precision match="@ref" precision="high"/></placeName> or <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly doth contayne 8 diſtinƈt Orbes of <rs cert="high" key="Star" ref="https://en.wikipedia.org/wiki/Star"><rs key="star" ref="http://www.wikidata.org/entity/Q523"><rs cert="high" key="star" ref="http://www.wikidata.org/entity/Q523"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs></rs></rs>, of which the ſeuen former and neereſt to the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> are atributed to the ſeuen <rs key="planet" ref="http://www.wikidata.org/entity/Q634" cert="high">planets</rs>, and the greater of theſe doth alwayes conteyne circularly the leſſer, &amp; euery one of theſe doth carry about one only <rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtar</rs> or <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planet</rs>, but the eigth otherwiſe named the <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs>; conteyneth in it all the other <rs key="star" ref="http://www.wikidata.org/entity/Q523" cert="high">ſtarres</rs> which are called fixed. The <rs key="star cluster" ref="http://www.wikidata.org/entity/Q168845" cert="medium">ſtarry</rs> <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven" cert="high">heauen</rs> or <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714" cert="high">firmament</rs> conteyneth within his <rs key="circumference" ref="http://www.wikidata.org/entity/Q843905" cert="high">circumference</rs> all the fore[-]ſaid <placeName key="planet" ref="http://www.wikidata.org/entity/Q634" cert="medium">Orbes<precision match="@ref" precision="low"/></placeName> with their <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs>, and theſame againe vvith all the other inferior Orbes is embraced of the nynth <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, which is called the firſt moueable, by vvhoſe continuall reuolution all theſe 8 Orbes of <rs key="star" ref="http://www.wikidata.org/entity/Q523"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs> are caryed about, vpon the <placeName key="geographical pole" ref="http://www.wikidata.org/entity/Q183273" cert="high">pole</placeName> of the vvorld, from the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt<precision match="@ref" precision="low"/></placeName>, to the <placeName key="West" ref="http://dbpedia.org/resource/West">weſt</placeName>, in the ſpace of <rs cert="high" key="24-hour clock time" ref="http://www.wikidata.org/entity/Q216589"><rs cert="low" key="24-hour clock time" ref="http://www.wikidata.org/entity/Q216589">24 howres</rs></rs>; but the 8 inferiors on the other parte are euer caried continually about from the <rs key="West" ref="http://dbpedia.org/resource/West" cert="high">weſt</rs>  vnto the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt</placeName>, vpon other <placeName key="geographical pole" ref="http://www.wikidata.org/entity/Q183273" cert="high">pole<precision match="@ref" precision="low"/></placeName>, called thoſe of the <rs key="Zodiac" ref="http://dbpedia.org/resource/Zodiac" cert="medium">Zodiak</rs>. But becauſe mariners do vſe only the con[-]ſtitutions of certaine principal fixed <rs key="star" ref="http://www.wikidata.org/entity/Q523" cert="high">ſtarres</rs>, which are found about the 2 <placeName key="Poles of astronomical bodies" ref="http://dbpedia.org/resource/Poles_of_astronomical_bodies">poles<precision match="@ref" precision="low"/></placeName> of <placeName key="world" ref="http://www.wikidata.org/entity/Q16502">the world</placeName>, the ambiguous moueinges of the <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs> are here omitted, as to them not neceſſarie, &amp; here are only aioyned two celeſtial figures by which the two half ſpheres of the whole <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs> of <rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarred</rs> <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, are demonſtrated. Of the which the firſt conteyneth the ſeptentrional or <placeName key="north" ref="http://www.wikidata.org/entity/Q659" cert="high">north<precision match="@ref" precision="low"/></placeName>erne <rs cert="high" key="star" ref="http://www.wikidata.org/entity/Q523"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs>, &amp; the ſecond thoſe vvhich belong to the <placeName key="south" ref="http://www.wikidata.org/entity/Q667" cert="medium">ſouth<precision match="@ref" precision="low"/></placeName>.</p></div>
+				<head><orgName cert="high">A brief deſcription of the half 2 globes or ſpheres, aſ vvell Celeſtial and Terreſtrial</orgName></head><p>BEcauſe the true &amp; proper deſcription of the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> &amp; the partes thereof ; cannot wel bee made without the knowlege of <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942" cert="high">Coſmographie</rs> &amp; <rs key="geography" ref="http://www.wikidata.org/entity/Q1071">Geographie</rs>, It is not amiſſe that the circular compoſition both of <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs> &amp; <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> bee briefly explicated. <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942">Coſmographie</rs> doth deſcribe the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">world</placeName>, that is to ſay the <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>; &amp; what els is conteyned within the circuit thereof. For the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">world<precision match="@ref" precision="high"/></placeName> is deuyded into <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly &amp; elementarie regions.  The <placeName key="sky" ref="http://www.wikidata.org/entity/Q527" cert="medium">celeſtial<precision match="@ref" precision="high"/></placeName> or <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly doth contayne 8 diſtinƈt Orbes of <rs cert="high" key="Star" ref="https://en.wikipedia.org/wiki/Star"><rs key="star" ref="http://www.wikidata.org/entity/Q523"><rs cert="high" key="star" ref="http://www.wikidata.org/entity/Q523"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs></rs></rs>, of which the ſeuen former and neereſt to the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> are atributed to the ſeuen <rs key="planet" ref="http://www.wikidata.org/entity/Q634" cert="high">planets</rs>, and the greater of theſe doth alwayes conteyne circularly the leſſer, &amp; euery one of theſe doth carry about one only <rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtar</rs> or <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planet</rs>, but the eigth otherwiſe named the <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs>; conteyneth in it all the other <rs key="star" ref="http://www.wikidata.org/entity/Q523" cert="high">ſtarres</rs> which are called fixed. The <rs key="star cluster" ref="http://www.wikidata.org/entity/Q168845" cert="medium">ſtarry</rs> <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven" cert="high">heauen</rs> or <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714" cert="high">firmament</rs> conteyneth within his <rs key="circumference" ref="http://www.wikidata.org/entity/Q843905" cert="high">circumference</rs> all the fore[-]ſaid <placeName key="planet" ref="http://www.wikidata.org/entity/Q634" cert="medium">Orbes<precision match="@ref" precision="low"/></placeName> with their <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs>, and theſame againe vvith all the other inferior Orbes is embraced of the nynth <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, which is called the firſt moueable, by vvhoſe continuall reuolution all theſe 8 Orbes of <rs key="star" ref="http://www.wikidata.org/entity/Q523"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs> are caryed about, vpon the <placeName key="geographical pole" ref="http://www.wikidata.org/entity/Q183273" cert="high">pole</placeName> of the vvorld, from the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt<precision match="@ref" precision="low"/></placeName>, to the <placeName key="West" ref="http://dbpedia.org/resource/West">weſt<precision match="@ref" precision="low"/></placeName>, in the ſpace of <rs cert="high" key="24-hour clock time" ref="http://www.wikidata.org/entity/Q216589"><rs cert="low" key="24-hour clock time" ref="http://www.wikidata.org/entity/Q216589">24 howres</rs></rs>; but the 8 inferiors on the other parte are euer caried continually about from the <rs key="West" ref="http://dbpedia.org/resource/West" cert="high">weſt</rs>  vnto the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt</placeName>, vpon other <placeName key="geographical pole" ref="http://www.wikidata.org/entity/Q183273" cert="high">pole<precision match="@ref" precision="low"/></placeName>, called thoſe of the <rs key="Zodiac" ref="http://dbpedia.org/resource/Zodiac" cert="medium">Zodiak</rs>. But becauſe mariners do vſe only the con[-]ſtitutions of certaine principal fixed <rs key="star" ref="http://www.wikidata.org/entity/Q523" cert="high">ſtarres</rs>, which are found about the 2 <placeName key="Poles of astronomical bodies" ref="http://dbpedia.org/resource/Poles_of_astronomical_bodies">poles<precision match="@ref" precision="low"/></placeName> of <placeName key="world" ref="http://www.wikidata.org/entity/Q16502" cert="high">the world</placeName>, the ambiguous moueinges of the <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs> are here omitted, as to them not neceſſarie, &amp; here are only aioyned two celeſtial figures by which the two half ſpheres of the whole <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs> of <rs key="star" ref="http://www.wikidata.org/entity/Q523" cert="high">ſtarred</rs> <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, are demonſtrated. Of the which the firſt conteyneth the ſeptentrional or <placeName key="north" ref="http://www.wikidata.org/entity/Q659" cert="high">north<precision match="@ref" precision="low"/></placeName>erne <rs cert="high" key="star" ref="http://www.wikidata.org/entity/Q523"><rs key="star" ref="http://www.wikidata.org/entity/Q523" cert="high">ſtarres</rs></rs>, &amp; the ſecond thoſe vvhich belong to the <placeName key="south" ref="http://www.wikidata.org/entity/Q667" cert="medium">ſouth<precision match="@ref" precision="low"/></placeName>.</p></div>
 		</body>
 	</text>
 </TEI>
