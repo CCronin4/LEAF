@@ -44,10 +44,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145845869",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145845869",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T19:58:45.869Z",
-	"dcterms:modified": "2024-11-05T19:58:45.869Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -58,10 +57,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145845869#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145845869#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -72,7 +71,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145845869#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145845869#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -125,10 +124,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145922944",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145922944",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T19:59:22.944Z",
-	"dcterms:modified": "2024-11-05T19:59:22.944Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -139,10 +137,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145922944#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145922944#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -153,7 +151,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145922944#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145922944#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[2]"
 		}
@@ -204,10 +202,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145959011",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145959011",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T19:59:59.011Z",
-	"dcterms:modified": "2024-11-05T19:59:59.011Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -218,10 +215,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145959011#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145959011#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -232,7 +229,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105145959011#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105145959011#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[6]"
 		}
@@ -285,10 +282,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150124790",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150124790",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:01:24.790Z",
-	"dcterms:modified": "2024-11-05T20:01:24.790Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -299,10 +295,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150124790#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150124790#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -313,7 +309,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150124790#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150124790#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[8]"
 		}
@@ -365,10 +361,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150152925",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150152925",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:01:52.925Z",
-	"dcterms:modified": "2024-11-05T20:01:52.925Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -379,10 +374,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150152925#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150152925#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -393,7 +388,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150152925#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150152925#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[10]"
 		}
@@ -444,10 +439,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150516360",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150516360",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:05:16.360Z",
-	"dcterms:modified": "2024-11-05T20:05:16.360Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -458,10 +452,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150516360#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150516360#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -472,7 +466,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150516360#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150516360#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[14]"
 		}
@@ -523,10 +517,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150544095",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150544095",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:05:44.095Z",
-	"dcterms:modified": "2024-11-05T20:05:44.095Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -537,10 +530,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150544095#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150544095#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -551,7 +544,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150544095#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150544095#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[12]"
 		}
@@ -603,10 +596,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150559443",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150559443",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:05:59.443Z",
-	"dcterms:modified": "2024-11-05T20:05:59.443Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -617,10 +609,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150559443#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150559443#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -631,7 +623,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150559443#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150559443#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[6]"
 		}
@@ -682,10 +674,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150613227",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150613227",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:06:13.227Z",
-	"dcterms:modified": "2024-11-05T20:06:13.227Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -696,10 +687,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150613227#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150613227#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -710,7 +701,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150613227#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150613227#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[4]"
 		}
@@ -761,10 +752,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150629575",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150629575",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:06:29.575Z",
-	"dcterms:modified": "2024-11-05T20:06:29.575Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -775,10 +765,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150629575#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150629575#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -789,7 +779,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150629575#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150629575#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[5]"
 		}
@@ -840,10 +830,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150726362",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150726362",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:07:26.362Z",
-	"dcterms:modified": "2024-11-05T20:07:26.362Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -854,10 +843,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150726362#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150726362#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -868,7 +857,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150726362#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150726362#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[18]"
 		}
@@ -920,10 +909,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150822446",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150822446",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:08:22.446Z",
-	"dcterms:modified": "2024-11-05T20:08:22.446Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -934,10 +922,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150822446#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150822446#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -948,7 +936,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105150822446#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105150822446#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[17]"
 		}
@@ -1000,10 +988,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105150857011",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105150857011",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:08:57.011Z",
-	"dcterms:modified": "2024-11-05T20:08:57.011Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1014,10 +1001,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105150857011#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105150857011#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1028,7 +1015,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105150857011#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105150857011#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[12]"
 		}
@@ -1079,10 +1066,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151036408",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151036408",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:10:36.408Z",
-	"dcterms:modified": "2024-11-05T20:10:36.408Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1093,10 +1079,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151036408#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151036408#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1107,7 +1093,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151036408#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151036408#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[5]"
 		}
@@ -1160,10 +1146,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151056995",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151056995",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:10:56.995Z",
-	"dcterms:modified": "2024-11-05T20:10:56.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1174,10 +1159,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151056995#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151056995#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1188,7 +1173,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151056995#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151056995#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[2]"
 		}
@@ -1239,10 +1224,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151122380",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151122380",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:11:22.380Z",
-	"dcterms:modified": "2024-11-05T20:11:22.380Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1253,10 +1237,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151122380#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151122380#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1267,7 +1251,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151122380#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151122380#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs"
 		}
@@ -1319,10 +1303,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151155907",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151155907",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:11:55.907Z",
-	"dcterms:modified": "2024-11-05T20:11:55.907Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1333,10 +1316,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151155907#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151155907#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1347,7 +1330,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151155907#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151155907#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[3]"
 		}
@@ -1398,10 +1381,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151211862",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151211862",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:12:11.862Z",
-	"dcterms:modified": "2024-11-05T20:12:11.862Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1412,10 +1394,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151211862#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151211862#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1426,7 +1408,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151211862#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151211862#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[3]"
 		}
@@ -1477,10 +1459,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151256332",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151256332",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:12:56.332Z",
-	"dcterms:modified": "2024-11-05T20:12:56.332Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1491,10 +1472,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151256332#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151256332#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1505,7 +1486,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151256332#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151256332#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[4]"
 		}
@@ -1558,10 +1539,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151338264",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151338264",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:13:38.264Z",
-	"dcterms:modified": "2024-11-05T20:13:38.264Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1572,10 +1552,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151338264#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151338264#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1586,7 +1566,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151338264#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151338264#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[8]"
 		}
@@ -1638,10 +1618,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151350628",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151350628",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:13:50.628Z",
-	"dcterms:modified": "2024-11-05T20:13:50.628Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1652,10 +1631,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151350628#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151350628#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1666,7 +1645,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151350628#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151350628#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[9]"
 		}
@@ -1717,10 +1696,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151448799",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151448799",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:14:48.799Z",
-	"dcterms:modified": "2024-11-05T20:14:48.799Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1731,10 +1709,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151448799#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151448799#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1745,7 +1723,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151448799#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151448799#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[7]"
 		}
@@ -1797,10 +1775,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151548862",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151548862",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:15:48.862Z",
-	"dcterms:modified": "2024-11-05T20:15:48.862Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1811,10 +1788,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151548862#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151548862#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1825,7 +1802,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151548862#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151548862#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[13]"
 		}
@@ -1877,10 +1854,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151634430",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151634430",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:16:34.430Z",
-	"dcterms:modified": "2024-11-05T20:16:34.430Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1891,10 +1867,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151634430#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151634430#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1905,7 +1881,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151634430#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151634430#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[11]"
 		}
@@ -1956,10 +1932,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151657375",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151657375",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:16:57.375Z",
-	"dcterms:modified": "2024-11-05T20:16:57.375Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -1970,10 +1945,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151657375#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151657375#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1984,7 +1959,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151657375#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151657375#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[20]"
 		}
@@ -2035,10 +2010,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151709559",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151709559",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:17:09.559Z",
-	"dcterms:modified": "2024-11-05T20:17:09.559Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2049,10 +2023,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151709559#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151709559#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2063,7 +2037,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151709559#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151709559#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[21]"
 		}
@@ -2114,10 +2088,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151834331",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151834331",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:18:34.331Z",
-	"dcterms:modified": "2024-11-05T20:18:34.331Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2128,10 +2101,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151834331#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151834331#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2142,7 +2115,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151834331#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151834331#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[11]"
 		}
@@ -2194,10 +2167,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151905229",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151905229",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:19:05.229Z",
-	"dcterms:modified": "2024-11-05T20:19:05.229Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2208,10 +2180,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151905229#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151905229#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2222,7 +2194,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105151905229#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105151905229#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[10]"
 		}
@@ -2273,10 +2245,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151923676",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151923676",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:19:23.676Z",
-	"dcterms:modified": "2024-11-05T20:19:23.676Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2287,10 +2258,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151923676#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151923676#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2301,7 +2272,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151923676#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151923676#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[19]"
 		}
@@ -2352,10 +2323,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151946394",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151946394",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:19:46.394Z",
-	"dcterms:modified": "2024-11-05T20:19:46.394Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2366,10 +2336,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151946394#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151946394#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2380,7 +2350,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?rs_annotation_20241105151946394#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?rs_annotation_20241105151946394#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[15]"
 		}
@@ -2431,10 +2401,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105152006047",
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105152006047",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:20:06.047Z",
-	"dcterms:modified": "2024-11-05T20:20:06.047Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/CCronin4",
 		"@type": [
@@ -2445,10 +2414,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105152006047#Target",
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105152006047#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2459,7 +2428,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105152006047#Selector",
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105152006047#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[9]"
 		}
@@ -2478,12 +2447,93 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105153404485",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:34:04.485Z",
+	"dcterms:modified": "2024-11-05T20:34:04.485Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/CCronin4",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Chloe Cronin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105153404485#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/CelestialCronin.xml?place_annotation_20241105153404485#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[13]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q667",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:lowCertainty"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/2-BriefDesc-Celestial-Ort-1.jpg"/>
 			<div>
-				<head><orgName cert="high">A brief deſcription of the half 2 globes or ſpheres, aſ vvell Celeſtial and Terreſtrial</orgName></head><p>BEcauſe the true &amp; proper deſcription of the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> &amp; the partes thereof ; cannot wel bee made without the knowlege of <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942" cert="high">Coſmographie</rs> &amp; Geographie, It is not amiſſe that the circular compoſition both of <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs> &amp; <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> bee briefly explicated. <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942">Coſmographie</rs> doth deſcribe the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">world</placeName>, that is to ſay the <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>; &amp; what els is conteyned within the circuit thereof. For the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">world<precision match="@ref" precision="high"/></placeName> is deuyded into <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly &amp; elementarie regions.  The <placeName key="sky" ref="http://www.wikidata.org/entity/Q527" cert="medium">celeſtial<precision match="@ref" precision="high"/></placeName> or <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly doth contayne 8 diſtinƈt Orbes of <rs cert="high" key="Star" ref="https://en.wikipedia.org/wiki/Star"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs>, of which the ſeuen former and neereſt to the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> are atributed to the ſeuen <rs key="planet" ref="http://www.wikidata.org/entity/Q634" cert="high">planets</rs>, and the greater of theſe doth alwayes conteyne circularly the leſſer, &amp; euery one of theſe doth carry about one only <rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtar</rs> or <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planet</rs>, but the eigth otherwiſe named the <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs>; conteyneth in it all the other ſtarres which are called fixed. The ſtarry <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven" cert="high">heauen</rs> or <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714" cert="high">firmament</rs> conteyneth within his circumference all the fore[-]ſaid Orbes with their <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs>, and theſame againe vvith all the other inferior Orbes is embraced of the nynth <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, which is called the firſt moueable, by vvhoſe continuall reuolution all theſe 8 Orbes of ſtarres are caryed about, vpon the <placeName key="geographical pole" ref="http://www.wikidata.org/entity/Q183273" cert="high">pole</placeName> of the vvorld, from the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt<precision match="@ref" precision="low"/></placeName>, to the <placeName key="West" ref="http://dbpedia.org/resource/West">weſt</placeName>, in the ſpace of <rs cert="high" key="24-hour clock time" ref="http://www.wikidata.org/entity/Q216589">24 howres</rs>; but the 8 inferiors on the other parte are euer caried continually about from the <rs key="West" ref="http://dbpedia.org/resource/West" cert="high">weſt</rs>  vnto the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt</placeName>, vpon other pole, called thoſe of the <rs key="Zodiac" ref="http://dbpedia.org/resource/Zodiac" cert="medium">Zodiak</rs>. But becauſe mariners do vſe only the con[-]ſtitutions of certaine principal fixed ſtarres, which are found about the 2 <placeName key="Poles of astronomical bodies" ref="http://dbpedia.org/resource/Poles_of_astronomical_bodies">poles<precision match="@ref" precision="low"/></placeName> of <placeName key="world" ref="http://www.wikidata.org/entity/Q16502">the world</placeName>, the ambiguous moueinges of the <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs> are here omitted, as to them not neceſſarie, &amp; here are only aioyned two celeſtial figures by which the two half ſpheres of the whole <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs> of ſtarred <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, are demonſtrated. Of the which the firſt conteyneth the ſeptentrional or northerne ſtarres, &amp; the ſecond thoſe vvhich belong to the ſouth.</p></div>
+				<head><orgName cert="high">A brief deſcription of the half 2 globes or ſpheres, aſ vvell Celeſtial and Terreſtrial</orgName></head><p>BEcauſe the true &amp; proper deſcription of the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> &amp; the partes thereof ; cannot wel bee made without the knowlege of <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942" cert="high">Coſmographie</rs> &amp; Geographie, It is not amiſſe that the circular compoſition both of <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs> &amp; <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> bee briefly explicated. <rs key="cosmography" ref="http://www.wikidata.org/entity/Q631942">Coſmographie</rs> doth deſcribe the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">world</placeName>, that is to ſay the <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>; &amp; what els is conteyned within the circuit thereof. For the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">world<precision match="@ref" precision="high"/></placeName> is deuyded into <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly &amp; elementarie regions.  The <placeName key="sky" ref="http://www.wikidata.org/entity/Q527" cert="medium">celeſtial<precision match="@ref" precision="high"/></placeName> or <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly doth contayne 8 diſtinƈt Orbes of <rs cert="high" key="Star" ref="https://en.wikipedia.org/wiki/Star"><rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtarres</rs></rs>, of which the ſeuen former and neereſt to the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> are atributed to the ſeuen <rs key="planet" ref="http://www.wikidata.org/entity/Q634" cert="high">planets</rs>, and the greater of theſe doth alwayes conteyne circularly the leſſer, &amp; euery one of theſe doth carry about one only <rs key="star" ref="http://www.wikidata.org/entity/Q523">ſtar</rs> or <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planet</rs>, but the eigth otherwiſe named the <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs>; conteyneth in it all the other ſtarres which are called fixed. The ſtarry <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven" cert="high">heauen</rs> or <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714" cert="high">firmament</rs> conteyneth within his circumference all the fore[-]ſaid Orbes with their <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs>, and theſame againe vvith all the other inferior Orbes is embraced of the nynth <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, which is called the firſt moueable, by vvhoſe continuall reuolution all theſe 8 Orbes of ſtarres are caryed about, vpon the <placeName key="geographical pole" ref="http://www.wikidata.org/entity/Q183273" cert="high">pole</placeName> of the vvorld, from the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt<precision match="@ref" precision="low"/></placeName>, to the <placeName key="West" ref="http://dbpedia.org/resource/West">weſt</placeName>, in the ſpace of <rs cert="high" key="24-hour clock time" ref="http://www.wikidata.org/entity/Q216589">24 howres</rs>; but the 8 inferiors on the other parte are euer caried continually about from the <rs key="West" ref="http://dbpedia.org/resource/West" cert="high">weſt</rs>  vnto the <placeName key="east" ref="http://www.wikidata.org/entity/Q684">eaſt</placeName>, vpon other pole, called thoſe of the <rs key="Zodiac" ref="http://dbpedia.org/resource/Zodiac" cert="medium">Zodiak</rs>. But becauſe mariners do vſe only the con[-]ſtitutions of certaine principal fixed ſtarres, which are found about the 2 <placeName key="Poles of astronomical bodies" ref="http://dbpedia.org/resource/Poles_of_astronomical_bodies">poles<precision match="@ref" precision="low"/></placeName> of <placeName key="world" ref="http://www.wikidata.org/entity/Q16502">the world</placeName>, the ambiguous moueinges of the <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs> are here omitted, as to them not neceſſarie, &amp; here are only aioyned two celeſtial figures by which the two half ſpheres of the whole <rs key="firmament" ref="http://www.wikidata.org/entity/Q2708714">firmament</rs> of ſtarred <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>, are demonſtrated. Of the which the firſt conteyneth the ſeptentrional or northerne ſtarres, &amp; the ſecond thoſe vvhich belong to the <placeName key="south" ref="http://www.wikidata.org/entity/Q667" cert="high">ſouth<precision match="@ref" precision="low"/></placeName>.</p></div>
 		</body>
 	</text>
 </TEI>
