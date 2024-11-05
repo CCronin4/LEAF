@@ -968,12 +968,91 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105150857011",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:08:57.011Z",
+	"dcterms:modified": "2024-11-05T20:08:57.011Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/CCronin4",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Chloe Cronin"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105150857011#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/CCronin4/LEAF/main/LEAF%20Files%20for%20Students/2-CelestiallGlobe.xml?place_annotation_20241105150857011#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q16502",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/2-BriefDesc-Celestial-Ort-1.jpg"/>
 			<div>
-				<head><orgName cert="high">A brief deſcription of the half 2 globes or ſpheres, aſ vvell Celeſtial and Terreſtrial</orgName></head><p>BEcauſe the true &amp; proper deſcription of the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> &amp; the partes thereof ; cannot wel bee made without the knowlege of Coſmographie &amp; Geographie, It is not amiſſe that the circular compoſition both of heauen &amp; <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> bee briefly explicated. Coſmographie doth deſcribe the world, that is to ſay the <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>; &amp; what els is conteyned within the circuit thereof. For the world is deuyded into <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly &amp; elementarie regions.  The celeſtial or <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly doth contayne 8 diſtinƈt Orbes of <rs cert="high" key="Star" ref="https://en.wikipedia.org/wiki/Star">ſtarres</rs>, of which the ſeuen former and neereſt to the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> are atributed to the ſeuen <rs key="planet" ref="http://www.wikidata.org/entity/Q634" cert="high">planets</rs>, and the greater of theſe doth alwayes conteyne circularly the leſſer, &amp; euery one of theſe doth carry about one only ſtar or <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planet</rs>, but the eigth otherwiſe named the firma[-]ment; conteyneth in it all the other <rs key="Stars" ref="https://en.wikipedia.org/wiki/Star">ſtarres</rs> which are called fixed. The ſtarry <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven" cert="high">heauen</rs> or firmament conteyneth within his circumference all the fore[-]ſaid Orbes with their <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs>, and theſame againe vvith all the other inferior Orbes is embraced of the nynth heauen, which is called the firſt moueable, by vvhoſe continuall reuolution all theſe 8 Orbes of ſtarres are caryed about, vpon the pole of the vvorld, from the eaſt, to the weſt, in the ſpace of 24 howres; but the 8 inferiors on the other parte are euer caried continually about from the <rs key="West" ref="http://dbpedia.org/resource/West" cert="high">weſt</rs>  vnto the eaſt, vpon other pole, called thoſe of the <rs key="Zodiac" ref="http://dbpedia.org/resource/Zodiac" cert="medium">Zodiak</rs>. But becauſe mariners do vſe only the con[-]ſtitutions of certaine principal fixed ſtarres, which are found about the 2 poles of the world, the ambiguous moueinges of the planets are here omitted, as to them not neceſſarie, &amp; here are only aioyned two celeſtial figures by which the two half ſpheres of the whole firmament of ſtarred heauen, are demonſtrated. Of the which the firſt conteyneth the ſeptentrional or northerne ſtarres, &amp; the ſecond thoſe vvhich belong to the ſouth.</p></div>
+				<head><orgName cert="high">A brief deſcription of the half 2 globes or ſpheres, aſ vvell Celeſtial and Terreſtrial</orgName></head><p>BEcauſe the true &amp; proper deſcription of the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> &amp; the partes thereof ; cannot wel bee made without the knowlege of Coſmographie &amp; Geographie, It is not amiſſe that the circular compoſition both of heauen &amp; <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2">earth</placeName> bee briefly explicated. Coſmographie doth deſcribe the world, that is to ſay the <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>; &amp; what els is conteyned within the circuit thereof. For the world is deuyded into <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly &amp; elementarie regions.  The celeſtial or <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven">heauen</rs>ly doth contayne 8 diſtinƈt Orbes of <rs cert="high" key="Star" ref="https://en.wikipedia.org/wiki/Star">ſtarres</rs>, of which the ſeuen former and neereſt to the <placeName key="Earth" ref="http://www.wikidata.org/entity/Q2" cert="high">earth<precision match="@ref" precision="high"/></placeName> are atributed to the ſeuen <rs key="planet" ref="http://www.wikidata.org/entity/Q634" cert="high">planets</rs>, and the greater of theſe doth alwayes conteyne circularly the leſſer, &amp; euery one of theſe doth carry about one only ſtar or <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planet</rs>, but the eigth otherwiſe named the firma[-]ment; conteyneth in it all the other <rs key="Stars" ref="https://en.wikipedia.org/wiki/Star">ſtarres</rs> which are called fixed. The ſtarry <rs key="Heaven" ref="http://dbpedia.org/resource/Heaven" cert="high">heauen</rs> or firmament conteyneth within his circumference all the fore[-]ſaid Orbes with their <rs key="planet" ref="http://www.wikidata.org/entity/Q634">planets</rs>, and theſame againe vvith all the other inferior Orbes is embraced of the nynth heauen, which is called the firſt moueable, by vvhoſe continuall reuolution all theſe 8 Orbes of ſtarres are caryed about, vpon the pole of the vvorld, from the eaſt, to the weſt, in the ſpace of 24 howres; but the 8 inferiors on the other parte are euer caried continually about from the <rs key="West" ref="http://dbpedia.org/resource/West" cert="high">weſt</rs>  vnto the eaſt, vpon other pole, called thoſe of the <rs key="Zodiac" ref="http://dbpedia.org/resource/Zodiac" cert="medium">Zodiak</rs>. But becauſe mariners do vſe only the con[-]ſtitutions of certaine principal fixed ſtarres, which are found about the 2 poles of <placeName key="world" ref="http://www.wikidata.org/entity/Q16502">the world</placeName>, the ambiguous moueinges of the planets are here omitted, as to them not neceſſarie, &amp; here are only aioyned two celeſtial figures by which the two half ſpheres of the whole firmament of ſtarred heauen, are demonſtrated. Of the which the firſt conteyneth the ſeptentrional or northerne ſtarres, &amp; the ſecond thoſe vvhich belong to the ſouth.</p></div>
 		</body>
 	</text>
 </TEI>
